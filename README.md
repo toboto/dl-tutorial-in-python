@@ -5,7 +5,6 @@
 阅读链接
 =========================
 
-Use the following links:
 
 * [第三章 神经网络](https://nbviewer.jupyter.org/github/toboto/dl-tutorial-in-python/blob/master/03-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 * [第四章 神经网络的学习过程](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/scientific-python-lectures/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
